@@ -8,6 +8,7 @@ class MainTest {
 
     @Test
     public void test() {
+        Thread.sleep(50000);
         assertTrue(false);
     }
 
